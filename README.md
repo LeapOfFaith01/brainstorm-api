@@ -1,17 +1,33 @@
-## Produtos
-[x] - Criar um produto
-[x] - Editar um produto
-[x] - Desativar um produto
-## Carrinho (Vendas)
-[x] - Criar um carrinho
-[x] - Adicionar e remover items
-[x] - Alterar quantidade
-[x] - Desativar carrinho
-## Finanças
-[ ] - Cadastrar uma venda
-[ ] - Relacionar venda a um carrinho
-[ ] - Carregar vendas por periodo
-[ ] - Carregar vendas por produtos mais populares
-[ ] - Carregar vendas por produtos mais populares num periodo
-[ ] - Total vendido no mes
-[ ] - Filtrar total vendido por tipos de pagamento (Boleto, Pix, Cartão, Dinheiro)
+# yamete_kudasai
+
+Backend do projeto brainstorm feito em NodeJS/Typescript usando express + prisma
+
+## No momento os seguintes recursos já foram desenvolvidos...
+
+- [x] Cadastro de produtos
+- [X] Cadastro de usuários
+- [x] Cadastro de vendas
+- [x] Listagem de produtos
+- [x] Listagem de vendas
+- [x] Listagem de usuarios
+- [x] Atualização de produtos
+- [x] Atualização de usuários
+- [x] Login
+
+## Recursos que vão ser implementados no futuro
+
+- [ ] Geração de relatórios
+- [ ] Devolução de produtos
+- [ ] Autenticação JWT Bearer
+
+## Recursos que precisam de manutenção ou melhorias
+
+### Manutenção:
+#### Historico de episodios
+-  Animes que não carregam zeram o tempo dos episodios já assistidos
+
+### Melhorias:
+#### Distribuição de responsabilidade e reutilização de código
+- [ ] Desaclopar todas as rotas do arquivo principal
+- [ ] Desaclopar métodos das rotas do arquivo principal
+- [ ] Distribuir responsabilidades entre os arquivos seguindo as boas práticas da programação
