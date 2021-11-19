@@ -1,0 +1,32 @@
+[
+  {
+    "valor": 911.23,
+    "quantidade": 5,
+    "product": {
+      "id": 1,
+      "nome": "Spermophilus lateralis",
+      "custo": 313.81,
+      "lucro": 863.45,
+      "valor": 911.23,
+      "qnt": 6,
+      "active": true,
+      "createdAt": "2021-09-30T18:29:54.47Z",
+      "updatedAt": "2021-10-01T00:18:09.374Z"
+    }
+  },
+  {
+    "valor": 574.94,
+    "quantidade": 3,
+    "product": {
+      "id": 100,
+      "nome": "Lepus townsendii",
+      "custo": 471.78,
+      "lucro": 938.15,
+      "valor": 574.94,
+      "qnt": 49,
+      "active": true,
+      "createdAt": "2021-09-30T18:29:54.472Z",
+      "updatedAt": "2021-09-30T18:29:54.5Z"
+    }
+  }
+]
