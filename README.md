@@ -22,10 +22,6 @@ Backend do projeto brainstorm feito em NodeJS/Typescript usando express + prisma
 
 ## Recursos que precisam de manutenção ou melhorias
 
-### Manutenção:
-#### Historico de episodios
--  Animes que não carregam zeram o tempo dos episodios já assistidos
-
 ### Melhorias:
 #### Distribuição de responsabilidade e reutilização de código
 - [ ] Desaclopar todas as rotas do arquivo principal
