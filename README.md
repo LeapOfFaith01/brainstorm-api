@@ -1,4 +1,4 @@
-# yamete_kudasai
+# brainstorm-api
 
 Backend do projeto brainstorm feito em NodeJS/Typescript usando express + prisma
 
